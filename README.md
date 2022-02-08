@@ -37,3 +37,7 @@ _Melhoria 1_, _melhoria 2_
 #### Imagem externa
 
 ![Logo do PHP](https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png)
+
+#### Links interessantes:
+
+[Google](https://www.google.com/)
