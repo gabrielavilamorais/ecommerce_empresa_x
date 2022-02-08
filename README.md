@@ -33,3 +33,7 @@ _Melhoria 1_, _melhoria 2_
 
 
 ![Logo do Python](Downloads/python.png)
+
+#### Imagem externa
+
+![Logo do PHP](https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png)
