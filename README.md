@@ -43,3 +43,11 @@ _Melhoria 1_, _melhoria 2_
 [Google](https://www.google.com/)
 
 [![Logo do Python](https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png)](https://www.google.com/)
+
+## Código da função soma
+
+```javascript
+function soma(a, b){
+    return a + b;
+}
+```
