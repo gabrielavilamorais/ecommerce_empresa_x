@@ -41,3 +41,5 @@ _Melhoria 1_, _melhoria 2_
 #### Links interessantes:
 
 [Google](https://www.google.com/)
+
+[![Logo do Python](https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png)](https://www.google.com/)
